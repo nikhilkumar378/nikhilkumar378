@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently working on **Full-Stack project**
 
-- 🌱 I’m currently learning **MERN, Devops and DSA in java**
+- 🌱 I’m currently learning **MERN and DSA in java**
 
-- 💬 Ask me about **MERN, Devops and DSA**
+- 💬 Ask me about **Full-stack Develolment and  DSA**
 
 - 📫 How to reach me **nikhilkumar87378@gmail.com**
 
